@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DataSet1" targetNamespace="http://tempuri.org/DataSet1.xsd" xmlns:mstns="http://tempuri.org/DataSet1.xsd" xmlns="http://tempuri.org/DataSet1.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DataSet1" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_UserDSName="DataSet1" msprop:Generator_DataSetName="DataSet1">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="DataTable1" msprop:Generator_RowEvHandlerName="DataTable1RowChangeEventHandler" msprop:Generator_RowDeletedName="DataTable1RowDeleted" msprop:Generator_RowDeletingName="DataTable1RowDeleting" msprop:Generator_RowEvArgName="DataTable1RowChangeEvent" msprop:Generator_TablePropName="DataTable1" msprop:Generator_RowChangedName="DataTable1RowChanged" msprop:Generator_RowChangingName="DataTable1RowChanging" msprop:Generator_TableClassName="DataTable1DataTable" msprop:Generator_RowClassName="DataTable1Row" msprop:Generator_TableVarName="tableDataTable1" msprop:Generator_UserTableName="DataTable1">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Nomor_Tiket" msprop:Generator_ColumnPropNameInRow="Nomor_Tiket" msprop:Generator_ColumnPropNameInTable="Nomor_TiketColumn" msprop:Generator_ColumnVarNameInTable="columnNomor_Tiket" msprop:Generator_UserColumnName="Nomor_Tiket" type="xs:string" minOccurs="0" />
+              <xs:element name="Nama_Pembeli" msprop:Generator_ColumnPropNameInRow="Nama_Pembeli" msprop:Generator_ColumnPropNameInTable="Nama_PembeliColumn" msprop:Generator_ColumnVarNameInTable="columnNama_Pembeli" msprop:Generator_UserColumnName="Nama_Pembeli" type="xs:string" minOccurs="0" />
+              <xs:element name="Jumlah_Tiket" msprop:Generator_ColumnPropNameInRow="Jumlah_Tiket" msprop:Generator_ColumnPropNameInTable="Jumlah_TiketColumn" msprop:Generator_ColumnVarNameInTable="columnJumlah_Tiket" msprop:Generator_UserColumnName="Jumlah_Tiket" type="xs:string" minOccurs="0" />
+              <xs:element name="Tanggal_Berangkat" msprop:Generator_ColumnPropNameInRow="Tanggal_Berangkat" msprop:Generator_ColumnPropNameInTable="Tanggal_BerangkatColumn" msprop:Generator_ColumnVarNameInTable="columnTanggal_Berangkat" msprop:Generator_UserColumnName="Tanggal_Berangkat" type="xs:string" minOccurs="0" />
+              <xs:element name="Kode_Wisata" msprop:Generator_ColumnPropNameInRow="Kode_Wisata" msprop:Generator_ColumnPropNameInTable="Kode_WisataColumn" msprop:Generator_ColumnVarNameInTable="columnKode_Wisata" msprop:Generator_UserColumnName="Kode_Wisata" type="xs:string" minOccurs="0" />
+              <xs:element name="Total_Harga" msprop:Generator_ColumnPropNameInRow="Total_Harga" msprop:Generator_ColumnPropNameInTable="Total_HargaColumn" msprop:Generator_ColumnVarNameInTable="columnTotal_Harga" msprop:Generator_UserColumnName="Total_Harga" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

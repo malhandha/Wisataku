@@ -1,0 +1,40 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\coolyeah\\smt 3\\pemdesk\\modifyingform\\wisataku\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C39D1C08-CC89-4103-B812-1B653D6A64C2}|wisataku\\wisataku.vbproj|d:\\coolyeah\\smt 3\\pemdesk\\modifyingform\\wisataku\\wisataku\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{C39D1C08-CC89-4103-B812-1B653D6A64C2}|wisataku\\wisataku.vbproj|solutionrelative:wisataku\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.vb [Design]",
+              "DocumentMoniker": "D:\\coolyeah\\smt 3\\pemdesk\\modifyingform\\wisataku\\wisataku\\Form1.vb",
+              "RelativeDocumentMoniker": "wisataku\\Form1.vb",
+              "ToolTip": "D:\\coolyeah\\smt 3\\pemdesk\\modifyingform\\wisataku\\wisataku\\Form1.vb [Design]",
+              "RelativeToolTip": "wisataku\\Form1.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-18T06:45:39.786Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

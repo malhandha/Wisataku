@@ -1,0 +1,9 @@
+D:\coolyeah\smt 3\pemdesk\modifyingform\wisataku\wisataku\obj\Debug\wisataku.vbproj.AssemblyReference.cache
+D:\coolyeah\smt 3\pemdesk\modifyingform\wisataku\wisataku\obj\Debug\wisataku.adminakun.resources
+D:\coolyeah\smt 3\pemdesk\modifyingform\wisataku\wisataku\obj\Debug\wisataku.dashboard1.resources
+D:\coolyeah\smt 3\pemdesk\modifyingform\wisataku\wisataku\obj\Debug\wisataku.dashboard2.resources
+D:\coolyeah\smt 3\pemdesk\modifyingform\wisataku\wisataku\obj\Debug\wisataku.Form1.resources
+D:\coolyeah\smt 3\pemdesk\modifyingform\wisataku\wisataku\obj\Debug\wisataku.login.resources
+D:\coolyeah\smt 3\pemdesk\modifyingform\wisataku\wisataku\obj\Debug\wisataku.Resources.resources
+D:\coolyeah\smt 3\pemdesk\modifyingform\wisataku\wisataku\obj\Debug\wisataku.vbproj.GenerateResource.cache
+D:\coolyeah\smt 3\pemdesk\modifyingform\wisataku\wisataku\obj\Debug\wisataku.vbproj.CoreCompileInputs.cache
